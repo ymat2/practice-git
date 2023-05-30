@@ -11,3 +11,6 @@ This is the ancestor of branches.
 ### Fast-Forward Merge
 This is the change on `feature` branch.
 
+### Non-fast Forward Merge
+This is the change on `main` branch.
+
