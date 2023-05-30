@@ -2,7 +2,8 @@
 This is a repository to practice `git`.
 
 ## Solve conflict
-This is the change on local repository.<br>
+This is the change on local repository.
+
 This is the change on remote repository.
 
 ## Branching and Merging
@@ -13,4 +14,6 @@ This is the change on `feature` branch.
 
 ### Non-fast Forward Merge
 This is the change on `main` branch.
+
+This is the change on `conf` branch.
 
