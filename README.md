@@ -17,3 +17,7 @@ This is the change on `main` branch.
 
 This is the change on `conf` branch.
 
+## Summarize commits using `rebase`
+This line is edited on Sunday.
+
+This line is edited on Monday.
