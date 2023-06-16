@@ -7,3 +7,9 @@
 
 `git rebase` cause conflicts if same file is edited.
 
+1. open conflicted_file and solve conflict
+
+2. `git add conflicted_file`
+
+3. `git rebase --continue`
+
