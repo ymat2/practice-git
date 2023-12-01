@@ -1,0 +1,3 @@
+[submodule "code-note"]
+	path = code-note
+	url = https://github.com/ymat2/code-note.git
