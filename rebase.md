@@ -13,3 +13,8 @@
 
 3. `git rebase --continue`
 
+## Amend message
+
+- `git rebase -i`
+
+- Edit message
