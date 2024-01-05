@@ -18,3 +18,5 @@
 - `git rebase -i`
 
 - Edit message
+
+- Amend commits
