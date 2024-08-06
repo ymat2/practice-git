@@ -21,3 +21,6 @@ This is the change on `conf` branch.
 This line is edited on Sunday.
 
 This line is edited on Monday.
+
+## Win Git
+This is a test commit using Git for Windows.
