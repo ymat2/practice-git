@@ -1,9 +1,8 @@
-## 第1章
-私はネコであるし、サルでもある。
+## Chapter 1
+I am a cat, and I am a monley.
 
-## 第2章
-あなたもイヌである。
+## Chapter 2
+You are a dog too.
 
-## 第3章
-われわれは一体何者なのであろうか。
-
+## Chapter 3
+Who on earth are we?
